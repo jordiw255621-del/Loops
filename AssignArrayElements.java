@@ -20,3 +20,8 @@ public class AssignArrayElements {
         System.out.println();
     }
 }
+
+// In this code I utilised int[] arrays to store integer values and String[]
+// arrays to store string values. I assigned values to each element of the
+// arrays using their respective indices. Finally, I printed out the values of
+// each element in the arrays to verify that they were assigned correctly.

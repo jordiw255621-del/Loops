@@ -9,3 +9,8 @@ public class UnluckyNumber {
         }
     }
 }
+
+// In this code, I used a continue statement to skip the numbers 3 and 4, which
+// are considered "unlucky". When the loop encounters these numbers, it prints a
+// message indicating that they are unlucky and then continues to the next
+// iteration of the loop, skipping the normal print statement for those numbers.
